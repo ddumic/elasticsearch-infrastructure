@@ -1,0 +1,9 @@
+D:\_Home\Elasticsearch\ElasticsearchShipper\ElasticsearchShipper\bin\Debug\netcoreapp2.1\ElasticsearchShipper.deps.json
+D:\_Home\Elasticsearch\ElasticsearchShipper\ElasticsearchShipper\bin\Debug\netcoreapp2.1\ElasticsearchShipper.dll
+D:\_Home\Elasticsearch\ElasticsearchShipper\ElasticsearchShipper\obj\Debug\netcoreapp2.1\ElasticsearchShipper.csprojAssemblyReference.cache
+D:\_Home\Elasticsearch\ElasticsearchShipper\ElasticsearchShipper\obj\Debug\netcoreapp2.1\ElasticsearchShipper.csproj.CoreCompileInputs.cache
+D:\_Home\Elasticsearch\ElasticsearchShipper\ElasticsearchShipper\obj\Debug\netcoreapp2.1\ElasticsearchShipper.AssemblyInfoInputs.cache
+D:\_Home\Elasticsearch\ElasticsearchShipper\ElasticsearchShipper\obj\Debug\netcoreapp2.1\ElasticsearchShipper.AssemblyInfo.cs
+D:\_Home\Elasticsearch\ElasticsearchShipper\ElasticsearchShipper\bin\Debug\netcoreapp2.1\ElasticsearchShipper.pdb
+D:\_Home\Elasticsearch\ElasticsearchShipper\ElasticsearchShipper\obj\Debug\netcoreapp2.1\ElasticsearchShipper.dll
+D:\_Home\Elasticsearch\ElasticsearchShipper\ElasticsearchShipper\obj\Debug\netcoreapp2.1\ElasticsearchShipper.pdb
